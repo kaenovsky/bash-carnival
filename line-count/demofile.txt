@@ -1,0 +1,6 @@
+This file is used
+to test the line-count.sh script
+it should output that
+we have 6 lines
+in this file!
+<3
